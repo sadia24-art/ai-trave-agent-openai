@@ -30,7 +30,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/FarazF19/OpenAI-Agent-SDK.git
+   
    cd travel-planner-assistant
    Install dependencies:
    ```
@@ -80,4 +80,5 @@ More Features: Itinerary planning, activity suggestions, and budgeting.
 MIT License - see the LICENSE file for details.
 
 Powered by OpenAI Agents SDK | Built with Streamlit | ✈️ Plan your next adventure today!
+
 
